@@ -3,7 +3,7 @@
  <img src="assets\images\Devr logo.png" alt="Devr.AI logo" width="150" height="auto" />
  </span>
 
-# 🤖 Devr.AI - AI-Powered Developer Relations Assistant
+🤖 Devr.AI - AI-Powered Developer Relations Assistant
   
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub Org's stars](https://img.shields.io/github/stars/AOSSIE-Org/Devr.AI?style=social)
