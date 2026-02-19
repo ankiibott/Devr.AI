@@ -138,7 +138,7 @@ We appreciate your contributions and look forward to working with you to make de
 
 ## 📬 Communication Channels
 
-If you have questions, need clarifications, or want to discuss ideas, reach out through:
+If you have questions, need clarifications, or want to discuss ideas, reach out through
 
 - [Discord Server](https://discord.gg/BjaG8DJx2G)
 - [GitHub Discussions](https://github.com/AOSSIE-Org/Devr.AI/discussions/135)
