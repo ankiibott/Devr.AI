@@ -80,7 +80,7 @@ Devr.AI is revolutionizing open-source community management with advanced AI-pow
 
 Devr.AI utilizes a complex multi-service architecture with AI agents, message queues, and multiple databases. Setting up can be challenging, but we've streamlined the process.
 
-**Quick Start:**
+**Quick Start:
 1. Clone the repository
 2. Follow our comprehensive [Installation Guide](./docs/INSTALL_GUIDE.md)
 3. Configure your environment variables (Discord bot, GitHub OAuth, API keys)
