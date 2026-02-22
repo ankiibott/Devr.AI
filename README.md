@@ -150,7 +150,7 @@ Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [L
 
 ## 💪 Thanks To All Contributors
 
-Thanks a lot for spending your time helping Devr.AI grow. Keep rocking 🥂
+Thanks a lot for spending your time helping Devr.AI grow. Keep rocking
 
 <a href="https://github.com/AOSSIE-Org/Devr.AI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AOSSIE-Org/Devr.AI" alt="Contributors"/>
