@@ -1,5 +1,5 @@
 <div align="center">
- <span>
+ <span
  <img src="assets\images\Devr logo.png" alt="Devr.AI logo" width="150" height="auto" />
  </span>
 
